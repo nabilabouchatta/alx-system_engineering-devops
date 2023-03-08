@@ -1,3 +1,3 @@
 #!/bin/bash
-ls -m */ .* ls -d . .. * | sort -1v
+ls -amvp
 
